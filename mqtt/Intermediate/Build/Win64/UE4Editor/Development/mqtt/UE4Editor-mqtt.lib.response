@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-mqtt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\clones\Backup\Intermediate\Build\Win64\BadlandsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\clones\Backup\Plugins\mqtt\Intermediate\Build\Win64\UE4Editor\Development\mqtt\Module.mqtt.cpp.obj"
+"D:\clones\Backup\Plugins\mqtt\Intermediate\Build\Win64\UE4Editor\Development\mqtt\Module.mqtt.gen.cpp.obj"
+"D:\clones\Backup\Plugins\mqtt\Intermediate\Build\Win64\UE4Editor\Development\mqtt\PCLaunch.rc.res"
+/OUT:"D:\clones\Backup\Plugins\mqtt\Intermediate\Build\Win64\UE4Editor\Development\mqtt\UE4Editor-mqtt.lib"

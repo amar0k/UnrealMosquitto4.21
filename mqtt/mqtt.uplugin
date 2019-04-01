@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MQTT",
+	"Description": "A Blueprint Node Library for MQTT Communication",
+	"Category": "Communication",
+	"CreatedBy": "Allen Simpson",
+	"CreatedByURL": "www.warpstudios.com.au",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.21",
+	"WhitelistPlatforms": [ "Win64", "Win32", "Mac", "IOS", "Android" ],
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/content/67b41c82f330406891ac6c0e0333da7c", 
+	"Modules": [
+		{
+			"Name": "mqtt",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
